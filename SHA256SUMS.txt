@@ -1,0 +1,2 @@
+1b373cfa0c397107edf6e236fb2339ad977c879029b401a3f4260c0ec480842f  Swivel-zh-Hans-macOS.zip
+8c132fa1b07ab615af940e1a3526b35815d0ffbe7d8f7101cb72ed77fe58af7e  Swivel-zh-Hans-source.zip
