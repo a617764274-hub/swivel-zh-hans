@@ -2,6 +2,17 @@
 
 基于 [jonathanlotan/Swivel v1.0.0](https://github.com/jonathanlotan/Swivel/tree/v1.0.0) 的非官方简体中文本地化副本。上游采用 MIT 许可证，版权归 Jonathan Lotan 所有。
 
+## 作者与中文本地化
+
+- 原软件作者：Jonathan Lotan。
+- 原项目：https://github.com/jonathanlotan/Swivel
+- 本地化基础版本：v1.0.0。
+- 简体中文本地化：Ethan（GitHub：a617764274-hub），使用 AI 工具辅助完成。
+
+这是非官方简体中文本地化副本，不代表原作者发行、认可或提供支持。原软件版权归 Jonathan Lotan 所有。本地化未修改上游仓库或官方发行包。
+
+沿用上游 MIT 许可证，并完整保留其版权声明、许可条款及免责条款。分享或再分发时，请一并保留这些文件。
+
 ## 下载使用
 
 点击 **Swivel-zh-Hans-macOS.zip**，选择下载原始文件（Download raw file），解压后打开 **Swivel 中文版.app**。这是为 Apple 芯片 Mac 构建的应用，已在本机 macOS 27.2 上实际启动。
@@ -34,4 +45,4 @@ xcodebuild -project Converter.xcodeproj -scheme Converter -configuration Release
 
 本机临时签名，未使用官方 Developer ID 或苹果公证；“快捷指令”可能无法发现该副本的 App Intents。PDF 压缩样例在本机和未修改的官方源码上均未缩小，应用会提示并保留原件。详见验证说明。
 
-此仓库用于私人保存，不代表上游官方发行版。
+此仓库公开分享非官方中文本地化副本，不代表上游官方发行版。
